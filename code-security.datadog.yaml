@@ -1,4 +1,6 @@
-schema-version: v1.0
+已经npm install --global ruflo@latest
+ruflo --version
+ruflo doctorchema-version: v1.0
 sast:
   use-rulesets:
     - python-best-practices
